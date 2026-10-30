@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Generative_AI-Learning-purple" />
   <img src="https://img.shields.io/badge/AI_Agents-In_Progress-orange" />
-  <img src="https://img.shields.io/badge/Status-Actively_Learning-success" />
+  <img src="https://img.shields.io/badge/Progress-2_of_21-success" />
 </p>
 
 <p align="center">
@@ -66,9 +66,9 @@ Building the foundation of AI-powered applications.
 
 | Day | Topics | Status |
 |---|---|---|
-| Day 01 | Introduction to AI Applications, Python Setup, First AI Chatbot | 🟡 In Progress |
-| Day 02 | AI Assistant with Conversation Memory | 🟡 In Progress |
-| Day 03 | Prompt Engineering and System Prompts | ⬜ Pending |
+| Day 01 | Introduction to AI Applications, Python Setup, First AI Chatbot | ✅ Completed |
+| Day 02 | AI Assistant with Conversation Memory | ✅ Completed |
+| Day 03 | Prompt Engineering and System Prompts | 🔄 In Progress |
 | Day 04 | AI Tools and Tool Integration | ⬜ Pending |
 | Day 05 | Document AI and File Processing | ⬜ Pending |
 | Day 06 | Introduction to RAG and Building a RAG System | ⬜ Pending |
@@ -116,9 +116,20 @@ Bringing the concepts together to build a complete AI-powered research solution.
 | Day 20 | Building an AI Research Agent | ⬜ Pending |
 | Day 21 | Research AI Agent Platform and Deployment | ⬜ Pending |
 
+### 📊 Overall Learning Progress
+
+| Metric | Progress |
+|---|---:|
+| Total Learning Days | 21 |
+| Completed | 2 |
+| In Progress | 1 |
+| Pending | 18 |
+
+**Current Status:** Day 03 — In Progress 🚀
+
 **Status Legend:**
-- 🟢 Completed
-- 🟡 In Progress
+- ✅ Completed
+- 🔄 In Progress
 - ⬜ Pending
 
 *Note: This is my organized learning tracker based on the course's learning roadmap, not a verbatim list of individual Udemy lectures.*
