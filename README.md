@@ -68,8 +68,8 @@ Building the foundation of AI-powered applications.
 |---|---|---|
 | Day 01 | Introduction to AI Applications, Python Setup, First AI Chatbot | ✅ Completed |
 | Day 02 | AI Assistant with Conversation Memory | ✅ Completed |
-| Day 03 | Prompt Engineering and System Prompts | 🔄 In Progress |
-| Day 04 | AI Tools and Tool Integration | ⬜ Pending |
+| Day 03 | Prompt Engineering and System Prompts | ✅ Completed |
+| Day 04 | AI Tools and Tool Integration | 🔄 In Progress |
 | Day 05 | Document AI and File Processing | ⬜ Pending |
 | Day 06 | Introduction to RAG and Building a RAG System | ⬜ Pending |
 
