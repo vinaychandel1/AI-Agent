@@ -1,10 +1,10 @@
 # 🤖 AI Agent Engineering — From Fundamentals to Production
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-Learning-purple" />
-  <img src="https://img.shields.io/badge/AI_Agents-In_Progress-orange" />
-  <img src="https://img.shields.io/badge/Progress-2_of_21-success" />
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Generative_AI-Learning-purple" alt="Generative AI">
+  <img src="https://img.shields.io/badge/AI_Agents-In_Progress-orange" alt="AI Agents">
+  <img src="https://img.shields.io/badge/Progress-3_of_21-success" alt="Progress 3 of 21">
 </p>
 
 <p align="center">
@@ -121,13 +121,14 @@ Bringing the concepts together to build a complete AI-powered research solution.
 | Metric | Progress |
 |---|---:|
 | Total Learning Days | 21 |
-| Completed | 2 |
+| Completed | 3 |
 | In Progress | 1 |
-| Pending | 18 |
+| Pending | 17 |
 
-**Current Status:** Day 03 — In Progress 🚀
+**Current Status:** Day 04 — In Progress 🚀
 
 **Status Legend:**
+
 - ✅ Completed
 - 🔄 In Progress
 - ⬜ Pending
@@ -170,19 +171,16 @@ AI-Agent/
 │   └── assistant1.py
 │
 ├── Day03/
+│   ├── assistant.py
+│   └── assistant1.py
 │
 ├── Day04/
 │
 ├── Day05/
-│
 ├── Day06/
-│
 ├── Day07/
-│
 ├── Day08/
-│
-├── ...
-│
+│   ...
 ├── Day21/
 │
 ├── .gitignore
